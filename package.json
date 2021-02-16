@@ -1,0 +1,25 @@
+{
+  "name": "user-form",
+  "version": "1.0.0",
+  "description": "user form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-shukla21/userform.git"
+  },
+  "author": "abhishek shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-shukla21/userform/issues"
+  },
+  "homepage": "https://github.com/abhishek-shukla21/userform#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "nodemon": "^2.0.7",
+    "validate-phone-number-node-js": "^0.0.1"
+  }
+}
